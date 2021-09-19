@@ -43,7 +43,11 @@ public class Ejecuta {
 		
 		System.out.println("Fin");
 		
+		// Cerramos sc
 		sc.close();
+		
+		// Fin del programa
+		
 	}
 
 }
