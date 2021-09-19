@@ -45,9 +45,6 @@ public class Ejecuta {
 		
 		// Cerramos sc
 		sc.close();
-		
-		// Fin del programa
-		
 	}
 
 }
