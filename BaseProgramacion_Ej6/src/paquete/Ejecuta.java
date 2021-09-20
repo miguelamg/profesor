@@ -41,6 +41,7 @@ public class Ejecuta
 			System.out.println(mensaje);
 		}
 		
-		sc.close();
+		// Cerramos Scanner.
+		sc.close(); 
 	}
 }
